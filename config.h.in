@@ -1,0 +1,2 @@
+#define uvadbb_VERSION_MAJOR @uvadbb_VERSION_MAJOR@
+#define uvadbb_VERSION_MINOR @uvadbb_VERSION_MINOR@
